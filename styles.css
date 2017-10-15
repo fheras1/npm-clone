@@ -1,0 +1,54 @@
+* {
+    font-family: "sans-serif";
+}
+body {
+    margin: 0;
+}
+nav {
+  background-color: #C12127;
+  color: rgba(255,255,255,0.8);
+  padding-top: 15px;
+  height: 100px;
+}
+
+nav a {
+  color: rgba(255,255,255,0.8);
+  text-decoration: none;
+}
+.top-links {
+  display: inline-block;
+  float: right;
+  padding: 0;
+  margin: 0 20px 0 0;
+}
+
+.top-links li {
+  display: inline-block;
+  margin: 0 10px;
+}
+/* Barra superior */
+.cabecera {
+display: inline;
+float: left;
+padding-left: 25px;
+}
+.logo {
+  width: 125px;
+
+}
+.logo2 {
+  width: 50px;
+  margin-left: 75em;
+}
+/* Imagen "build-amazing"*/
+.build-amazing {
+text-align: left;
+  width: auto;
+  margin: auto;
+  background-image: url(images/city-scape.svg);
+  background-size: 800px 600px;
+  background-position: center;
+  display:block;
+  margin:auto;
+}
+/* Primera seccion*/
